@@ -1,5 +1,4 @@
 # sale_forecast_ml
-This project predicts future product sales using historical data. It includes data cleaning, trend analysis, and feature engineering, followed by building and comparing three models — Linear Regression, Random Forest, and Gradient Boosting — to forecast sales and support data-driven business decisions.
 This project focuses on analyzing and forecasting product sales using historical data.
 The goal is to uncover key patterns, understand demand behavior, and predict future sales using multiple machine learning models.
 The notebook demonstrates the complete data science workflow — from data preprocessing and exploratory analysis to feature engineering and model training.
